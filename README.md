@@ -76,7 +76,7 @@ employee-directory/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/django-employee-directory.git
+git clone 
 cd django-employee-directory
 
 Create virtual environment:
